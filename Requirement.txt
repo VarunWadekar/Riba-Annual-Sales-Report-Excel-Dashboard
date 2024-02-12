@@ -1,0 +1,9 @@
+
+1 compare sales and orders using single chart
+2 which month got the highest sales and orders
+3 who purchased more by gender
+4 what are the different order status
+5 list top 10 states in sales
+6 relation between age and gander
+7 which channel is contributing to maximum sales
+8 highest selling category
